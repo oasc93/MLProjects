@@ -1,6 +1,6 @@
 # Projects
 
-## UFC Prediction Read me 
+## UFC Prediction 
 
 The code in this repository performs exploratory data analysis (EDA), data visualization, and showcases the usage of machine learning classifiers for analyzing mixed martial arts (MMA) fight data. The code utilizes popular Python libraries such as pandas, matplotlib, seaborn, and scikit-learn. It reads three CSV files containing MMA fight data, conducts initial data exploration, and provides insights into the number of fights and fighters present in the dataset. The code further visualizes various aspects of the data, including yearly fights, average fight duration, percentage of finish methods, and the distribution of fights across divisions and genders. It also explores fighters by country and analyzes fight details such as control time and competition duration per division. Additionally, the code imports machine learning classifiers and performance metrics, allowing users to experiment with machine learning models for predictive analysis. This code serves as a starting point for exploring and analyzing MMA fight data, and can be expanded upon for further analysis and model development.
 
