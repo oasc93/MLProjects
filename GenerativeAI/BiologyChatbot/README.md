@@ -38,3 +38,5 @@ If you're interested in the Llama 2 model trained on a 7 billion parameters, you
 - Hugging Face Repository: [Request Access](https://huggingface.co/meta-llama/Llama-2-7b)
 
 Let's embark on this exciting biology journey together!
+
+<img width="1680" alt="Screenshot" src="https://github.com/oasc93/Projects/assets/28991187/57f3c167-ddc3-49dd-9749-739b0b27f0e6">
