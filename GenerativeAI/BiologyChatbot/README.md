@@ -33,7 +33,7 @@ And your biology study companion is ready to assist you.
 
 ## Accessing the Llama 2 Model
 
-If you're interested in the Llama 2 model trained on a 7 billion parameters, you can access it through two repository:
+If you're interested in the Llama 2 model trained on 7 billion parameters, you can access it through the following repository:
 
 - Hugging Face Repository: [Request Access](https://huggingface.co/meta-llama/Llama-2-7b)
 
