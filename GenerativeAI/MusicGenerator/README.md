@@ -8,7 +8,7 @@ This project originated from a collaboration with a friend who frequently arrang
 - Duration Loss: 0.2034
 
 ## Usage
-This Music Generator can be executed in two primary modes: training with your own MIDI files or generating music using pre-trained weights. The specific configuration for each mode is detailed in the "Input Variables" section at the top of the MusicGeneratorFinal.ipynb file.
+This Music Generator can be executed in two primary modes: training with your own MIDI files or generating music using pre-trained weights and data. The specific configuration for each mode is detailed in the "Input Variables" section at the top of the MusicGeneratorFinal.ipynb file.
 
 ### Definitions
 - Note: single pitch
